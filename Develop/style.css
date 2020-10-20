@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.jumbotron {
+    width: 100%;
+    font-size: 60px;
+    text-align: center;
+    color: black;
+    background-color: rgb(22, 21, 21);
+    justify-content: center;
+  }
+  
+  .mainDisplay{
+    text-align: center;
+  }
+  .submit{
+    height: 25px;
+    width: 75px;
+    font-size: 15px;
+  }
